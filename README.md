@@ -1,14 +1,12 @@
-<h1  align="center">VUE 3 ALERT</h1>
+<h1  align="center">VUE 3 Переключения языков</h1>
 
 <div align="center">
  <h1  align="center">Описание</h1> 
 <p align="center">
-В разных случаях выводиться всплывающее окно с ошибками или успешным текстом  
+Переключения языков на основе выбрано пользователем. Заменяются все ключи, если такие есть в нашем словаре
 </p>
-<h4 align="center">Использовались для создания сайта </h4>
-<p align="center">VUE3 SCSS</p>
   
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-alert/blob/main/alert.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue3-cange-language/blob/main/chrome_DzZbMUzF9J.gif)
   
 </div>
 
